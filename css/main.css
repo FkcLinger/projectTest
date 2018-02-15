@@ -1,0 +1,14 @@
+
+h1 {color: yellow}
+#div_test {color:orange;}
+.div_class {color: #EE7819;}
+
+span{
+    font-size: 10px;
+    font-weight: bold;
+    color: red;
+}
+
+.hide{
+    visibility: hidden;
+}
